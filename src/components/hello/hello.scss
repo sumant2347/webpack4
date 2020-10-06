@@ -1,0 +1,13 @@
+$font-size: 1.5rem;
+$button-border-color: black;
+
+.btn {
+  font-size: $font-size;
+  padding: $font-size;
+  border: 1px solid $button-border-color;
+  border-radius: 8px;
+}
+.p {
+  font-size: $font-size;
+  color: gray;
+}
